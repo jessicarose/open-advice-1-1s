@@ -1,13 +1,15 @@
 # Open-Advice-1-1s
 
-I've been running open advice calls for technologists for the past several years, to help offer support to folks working in tech or looking to get into tech. I'm open sourcing my process and tooling here, in hopes that it will prove useful for anyone hoping to offer advice outside their immediate networks. While I've developed this process to use with people seeking advice about working in technology, this could be repurposed to fit the needs of advice seekers from any discipline.
+I've been running open advice calls for technologists for the past several years, to help offer support to wanting advice about working in tech. I'm open sourcing my process and tooling here, in hopes that it will prove useful for anyone hoping to offer advice outside their immediate networks. While I've developed this process to use with people seeking advice about working in technology, this could be repurposed to fit the needs of advice seekers from any discipline.
+
+The tools I've chosen work well for my workflow, but may not be a great fit for everyone. Feel free to substitute out for your favorite tools with similar functionality.
 
 I'm excited to improve this process and welcome PRs, especially for folks using this with non-technology audiences.
 
 # Process overview
 1. Sign up for Calendly and Zoom accounts
 2. Set up your Calendly event type and connect Zoom to your Calendly event type
-3. Advertise your availibilty for 1:1's
+3. Advertise your availability for 1:1's
 4. Share your Calendly link with interested advice seekers
 5. Join advice seekers via Zoom at agreed-upon time to chat
 6. Take notes or plan follow up as needed
@@ -26,13 +28,15 @@ I'm excited to improve this process and welcome PRs, especially for folks using 
 
 Calendly is a great tool for managing signups for your open advice 1:1s with people. You'll want to have it fully set up before advertising your availability, so that you're able to share the link when requested.
 
-You will need to create an event type you want people to book. Name this event type something that clearly communicates the purpose of the call. For example, the calendly event type for my 1:1 calls is called "30m 1:1 Advice call". Set up your event to only run on the times and dates you want to offer advice on. 
+You will need to create an event type you want people to book. Name this event type something that clearly communicates the purpose of the call. For example, the calendly event type for my 1:1 calls is called "30m 1:1 Advice call". Set up your event to only run on the times and dates you want to offer advice on.
+
+To avoid conflicts with your schedule, you can connect Calendly with your calendar. Calendly will then only offer slots that are free on your calendar to advice-seekers.
 
 Once you've set up your event type, check to see that it's displaying the information you intended. Here's an example of what an advice-seeker would see after clicking my Calendly link.
 
 ![alt text](calendly1.png "Example view of Calendly event")
 
-As part of your Calendly event, you can set questions that you want people booking with you to fill out. I strongly recommend adding a question asking advice-seekers what they want your advice on, so you can prepare for your call with them.
+As part of your Calendly event, you can set questions that you want advice-seekers to fill out. I strongly recommend adding a question asking advice-seekers what they want your advice on, so you can prepare for your call with them.
 
 Here is an example of the questions I ask advice-seekers to answer when booking an advice call with me.
 
@@ -48,14 +52,32 @@ Calendly tips:
 
 
 # Advertising your availability
+Now that you have your event type set up in Calendly and Zoom connected, you can start booking calls with advice-seekers. You'll want to let people know that you're available for advice. This may be through an email newsletter, social media, word or mouth or other communication channel.
+
+I recommend specifically talking about the areas you’re able to advise on when you advertise your availability. Being explicit about what areas you can advise on will help reduce disappointment from advice-seekers who want help with areas outside your expertise.
+
+I tend to use social media to advertise that I'm running open advice calls. I've included an example of a past Tweet below.
+
+![alt text](tweet.png "A screenshot of a Tweet advertising open advice 1:1 calls")
 
 
 # Signing people up
 
+As part of my own process, I have advice-seekers DM me to get my Calendly link. You may want to share this directly if you're communicating to potential advice-seekers via email or other relatively private communication channel.
+
+Calendly will give people the option to pick the timeslot that suits them best and send you both calendar invites. 
 
 # Holding 1:1s
 
+Now that you’ve got advice-seekers signed up, it’s time to get ready for your 1:1s. To give your best advice, you’ll need a quiet room that’s conducive to a private conversation, a stable internet connection and whatever audio setup you like best for calls.
+
+If you’re doing several advice 1:1s in a row, I recommend having some water and coffee at your desk to minimize the need to get up. I also like to have a paper notebook and pens out, to take notes as calls progress.
+
 # Giving advice
+
+# Follow up
+
+
 
 
 
