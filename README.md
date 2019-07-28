@@ -31,6 +31,8 @@ Calendly is a great tool for managing signups for your open advice 1:1s with peo
 
 You will need to create an event type you want to have advice-seekers book. Name this event type something that clearly communicates the purpose of the call. For example, the calendly event type for my 1:1 calls is called "30m 1:1 Advice call". Set up your event to only run on the times and dates you want to offer advice on.
 
+You will need to set when you are available for 1:1 calls as part of setting up your Calendly event. You can set your availbility for set time intervals (Ex. 4pm to 6pm your local time) for either repeating dates (Ex. every Tuesday) or single set days (Ex. Tuesday August 5th)
+
 To avoid conflicts with your schedule, you can connect Calendly with your calendar. Calendly will then only offer slots that are free on your calendar to advice-seekers.
 
 Once you've set up your event type, check to see that it's displaying the information you intended. Here's an example of what an advice-seeker would see after clicking my Calendly link.
