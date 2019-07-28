@@ -78,7 +78,23 @@ If you’re doing several advice 1:1s in a row, I recommend having some water an
 
 # Giving advice
 
-# Follow up
+This is going to be the most challenging and most rewarding part of running open advice 1:1 calls. Advice is personal, and you'll need to find an approach that works well for you. 
+
+Here are some very short guidelines for giving advice, based on my experiences. See it as my advice on advice!
+
+* ✅ Recognize that your advice is coming from your perspective
+* ✅ Ask open ended questions, often advice-seekers have a good idea of what they need to do next
+* ✅ Let advice-seekers know there's no obligation to act on your advice
+* ✅ Actively listen
+* ✅ Ask what they've already tried
+* ✅ Offer verbal support, sometimes people just need someone who is willing to listen
+* 🚫 Don't insist that people act on your advice
+* 🚫 Don't push for personal action for those impacted strucutral problems (like discrimination)
+* 🚫 Don't offer advice when you're not confident about your advice: it's ok to say you don't know
+* 🚫 Never give advice that results in a financial or other benefit to yourself or your contacts
+* 🚫 Don't bully, talk down to or yell at advice-seekers. You're there for them
+
+
 
 
 
