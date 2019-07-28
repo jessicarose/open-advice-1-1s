@@ -1,10 +1,11 @@
 # Open-Advice-1-1s
 
-I've been running open advice calls for technologists for the past several years, to help offer support to wanting advice about working in tech. I'm open sourcing my process and tooling here, in hopes that it will prove useful for anyone hoping to offer advice outside their immediate networks. While I've developed this process to use with people seeking advice about working in technology, this could be repurposed to fit the needs of advice seekers from any discipline.
+I've been running open advice calls for technologists for the past several years, to help offer support to folks wanting advice about working in tech. I'm open sourcing my process and tooling here, in hopes that it will prove useful for anyone hoping to offer advice to people outside their immediate networks. While I've developed this process to use with people seeking advice about working in technology, this could be repurposed to fit the needs of advice seekers from any discipline.
 
 The tools I've chosen work well for my workflow, but may not be a great fit for everyone. Feel free to substitute out for your favorite tools with similar functionality.
 
-I'm excited to improve this process and welcome PRs, especially for folks using this with non-technology audiences.
+## Contribute to this guide
+I'm excited to improve this process and welcome PRs, especially for folks using this with non-technology audiences. I would love to fill this repo with other approaches to offering open 1:1 advice calls and work to improve this guide.
 
 # Process overview
 1. Sign up for Calendly and Zoom accounts
@@ -12,23 +13,23 @@ I'm excited to improve this process and welcome PRs, especially for folks using 
 3. Advertise your availability for 1:1's
 4. Share your Calendly link with interested advice seekers
 5. Join advice seekers via Zoom at agreed-upon time to chat
-6. Take notes or plan follow up as needed
+6. Offer empathetic support and advice
+7. Take notes or plan follow up as needed
 
 # Tooling
 * [Calendly](https://calendly.com/): an automatic calendar booking system, to make it easy for advice seekers to book a slot in your calendar. Free for one meeting type, $8/month for full use. 14 day free trial available without needing a credit card.
 
-* [Zoom](https://zoom.us/): A popular web conferencing software that can be connected to Calendly, giving each advice seeker a link for your call with them
+* [Zoom](https://zoom.us/): A popular web conferencing software that can be connected to Calendly, giving each advice seeker a link for your call with them. Free for limited personal useage.
 
 ## Optional tooling
 
 * [Zapier](https://zapier.com/): A service that will let you connect your Calendly account to Google Sheets, useful if you want to keep a record of who you have spoken to for followup.
 
-
 # Setting up Calendly
 
-Calendly is a great tool for managing signups for your open advice 1:1s with people. You'll want to have it fully set up before advertising your availability, so that you're able to share the link when requested.
+Calendly is a great tool for managing signups for your open advice 1:1s with people. You'll want to have it fully set up before advertising your availability, so that you're able to share your Calendly link when requested.
 
-You will need to create an event type you want people to book. Name this event type something that clearly communicates the purpose of the call. For example, the calendly event type for my 1:1 calls is called "30m 1:1 Advice call". Set up your event to only run on the times and dates you want to offer advice on.
+You will need to create an event type you want to have advice-seekers book. Name this event type something that clearly communicates the purpose of the call. For example, the calendly event type for my 1:1 calls is called "30m 1:1 Advice call". Set up your event to only run on the times and dates you want to offer advice on.
 
 To avoid conflicts with your schedule, you can connect Calendly with your calendar. Calendly will then only offer slots that are free on your calendar to advice-seekers.
 
@@ -42,7 +43,7 @@ Here is an example of the questions I ask advice-seekers to answer when booking 
 
 ![alt text](calendly2.png "Example view of Calendly event signup process")
 
-To make your calls easier, I strongly recommend connecting your Calendly account to Zoom, which will generate meeting codes for each advice-seeker. To join a call, both you and the advice-seeker can simply click the provided meeting link at the designated time.
+To make your calls easier, I strongly recommend connecting your Calendly account to Zoom, which will generate links for calls for each advice-seeker. To join a call, both you and the advice-seeker can simply click the provided link at the designated time.
 
 Calendly tips:
 * Share your link via private or semi-private modes of communication like email, DMs or PMs.
@@ -52,7 +53,7 @@ Calendly tips:
 
 
 # Advertising your availability
-Now that you have your event type set up in Calendly and Zoom connected, you can start booking calls with advice-seekers. You'll want to let people know that you're available for advice. This may be through an email newsletter, social media, word or mouth or other communication channel.
+Now that you have your event type set up in Calendly and Zoom connected, you can start booking calls with advice-seekers. You'll want to let people know that you're available for advice. This may be through an email, a newsletter, social media, word or mouth or any communication channel you like best.
 
 I recommend specifically talking about the areas you’re able to advise on when you advertise your availability. Being explicit about what areas you can advise on will help reduce disappointment from advice-seekers who want help with areas outside your expertise.
 
@@ -65,7 +66,7 @@ I tend to use social media to advertise that I'm running open advice calls. I've
 
 As part of my own process, I have advice-seekers DM me to get my Calendly link. You may want to share this directly if you're communicating to potential advice-seekers via email or other relatively private communication channel.
 
-Calendly will give people the option to pick the timeslot that suits them best and send you both calendar invites. 
+Calendly will give people the option to pick the timeslot that suits them best and send you both calendar invites. It magically handles timezones, to make signups easier.
 
 # Holding 1:1s
 
