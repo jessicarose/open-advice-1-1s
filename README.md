@@ -89,7 +89,7 @@ Here are some very short guidelines for giving advice, based on my experiences. 
 * ✅ Ask what they've already tried
 * ✅ Offer verbal support, sometimes people just need someone who is willing to listen
 * 🚫 Don't insist that people act on your advice
-* 🚫 Don't push for personal action for those impacted structural problems (like discrimination)
+* 🚫 Don't push for personal action for those impacted by structural problems (like discrimination)
 * 🚫 Don't offer advice when you're not confident about your advice: it's ok to say you don't know
 * 🚫 Never give advice that results in a financial or other benefit to yourself or your contacts
 * 🚫 Don't bully, talk down to or yell at advice-seekers. You're there for them
